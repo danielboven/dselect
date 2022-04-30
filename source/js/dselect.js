@@ -223,3 +223,11 @@ function dselect(el, option = {}) {
 
   el.addEventListener('change', updateDom)
 }
+
+module.exports = {
+  dselectUpdate,
+  dselectRemoveTag,
+  dselectSearch,
+  dselectClear,
+  dselect
+}
