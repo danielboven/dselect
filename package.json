@@ -17,6 +17,7 @@
     "url": "https://github.com/jarstone/dselect/issues"
   },
   "homepage": "https://github.com/jarstone/dselect#readme",
+  "exports": "./dist/js/dselect.min.js",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
     "bootstrap": "^5.0.2",
